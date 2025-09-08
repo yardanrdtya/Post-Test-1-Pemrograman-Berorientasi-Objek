@@ -81,3 +81,9 @@ Jika user menginputkan nomor jadwal yang tidak tersedia untuk dihapus di daftar 
 Jika user menginputkan selain angka, maka akan muncul pesan seperti gambar dibawah dan program otomatis akan kembali ke menu utama.
 
 <img width="624" height="358" alt="image" src="https://github.com/user-attachments/assets/b14ffc0c-ca79-4dfe-92c2-ca07a77153c9" />
+
+[5]. Keluar
+
+Opsi ini digunakan ketika user sudah selesai menggunakan operasi-operasi yang ada di program jadwal olahraga ini. Jika user memilih opsi ini maka akan muncul pesan seperti gambar dibawah dan program selesai.
+
+<img width="817" height="200" alt="image" src="https://github.com/user-attachments/assets/95147d8a-f9e6-46fc-9043-a5fb06796e40" />
