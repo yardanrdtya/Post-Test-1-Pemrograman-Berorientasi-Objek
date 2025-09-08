@@ -1,5 +1,5 @@
 # Post-Test-1-Pemrograman-Berorientasi-Objek
-Post Test ke-1 Praktikum Pemrograman Berorientasi Objek Semester 3
+Yardan Raditya Rafi' Widyadhana | 2409116037 | Sistem Informasi A 2024 | Tema Program: Manajemen Jadwal Olahraga Pribadi
 
 # Deskripsi Program
 Program Manajemen Jadwal Olahraga Pribadi ini dibuat menggunakan bahasa pemrograman Java dengan konsep Pemrograman Berorientasi Objek (PBO). Program ini berfungsi untuk membantu saya dalam mengatur jadwal olahraga sehari-hari, seperti menambahkan jadwal olahraga baru, menampilkan jadwal olahraga, memperbarui jadwal, dan menghapus jadwal olahraga.
